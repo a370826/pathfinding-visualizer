@@ -10,7 +10,8 @@ Mac: python3 -m pip install -U pygame --user<br/>
 credit to this video for helping me understand the algorithm.<br/>
 https://www.youtube.com/watch?v=-L-WgKMFuhE
 
-
+<pre>
 <b>Controls:</b><br/>
-Mouse: Draw/Erase Walls  |   SPACE: Toggle Draw/Erase   |   C: Clear Board 
+Mouse: Draw/Erase Walls  |   SPACE: Toggle Draw/Erase   |   C: Clear Board  <b/>
     S: Set Start-Point   |       E: Set End-Point       |   L: Run Visualization Algorithm
+</pre>
