@@ -12,6 +12,6 @@ https://www.youtube.com/watch?v=-L-WgKMFuhE
 
 <pre>
 <b>Controls:</b><br/>
-Mouse: Draw/Erase Walls  |   SPACE: Toggle Draw/Erase   |   C: Clear Board  <b/>
+Mouse: Draw/Erase Walls  |   SPACE: Toggle Draw/Erase   |   C: Clear Board  
     S: Set Start-Point   |       E: Set End-Point       |   L: Run Visualization Algorithm
 </pre>
