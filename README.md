@@ -1,4 +1,4 @@
-# Interactive Path Finder
+# Interactive A* Pathfinding Algorithm Visualizer
 
 I created a visualization tool for popular A* pathfinding algorithm. It current supports addings obstacles and moving endpoints. <br/>
 
@@ -15,3 +15,14 @@ https://www.youtube.com/watch?v=-L-WgKMFuhE
 Mouse: Draw/Erase Walls  |   SPACE: Toggle Draw/Erase   |   C: Clear Board  
     S: Set Start-Point   |       E: Set End-Point       |   L: Run Visualization Algorithm
 </pre>
+
+<b>Pictures</b><br/>
+<br/>
+Grid Setup example: <br/>
+<img
+src=“before_pic.PNG”
+/> <br/>
+After Visualization: <br/>
+<img
+src=“after_pic.PNG”
+/>
