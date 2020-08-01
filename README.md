@@ -19,10 +19,6 @@ Mouse: Draw/Erase Walls  |   SPACE: Toggle Draw/Erase   |   C: Clear Board
 <b>Pictures</b><br/>
 <br/>
 Grid Setup example: <br/>
-<img
-src=“./before_pic.PNG”
-/> <br/>
+![Setup](./before_pic.png) <br/>
 After Visualization: <br/>
-<img
-src=“./after_pic.PNG”
-/>
+![Visualization](./after_pic.png)
